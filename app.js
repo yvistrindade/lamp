@@ -1,6 +1,6 @@
 /**
  * Simples simulador de uma lampada
- * @author João Victor
+ * @author yvis trindade
  */
 
 //variaveis de apoio logico
